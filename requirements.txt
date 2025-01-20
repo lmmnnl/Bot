@@ -1,0 +1,6 @@
+aiosqlite
+asyncio
+apscheduler
+aiogram
+langchain_gigachat
+langchain
